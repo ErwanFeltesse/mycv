@@ -9,6 +9,7 @@ function App() {
           <Switch>
             <Route path='/accueil' exact>
               <Navbar/>
+              <hr/>
             </Route>
 
             <Route path="/cv" exact>
